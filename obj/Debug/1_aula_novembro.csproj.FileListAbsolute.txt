@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\bin\Debug\1_aula_novembro.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\bin\Debug\1_aula_novembro.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\bin\Debug\1_aula_novembro.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\obj\Debug\1_aula_novembro.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\obj\Debug\1_aula_novembro.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\obj\Debug\1_aula_novembro.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\1_aula_novembro\obj\Debug\1_aula_novembro.pdb
